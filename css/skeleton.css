@@ -168,7 +168,7 @@ a:hover {
 a {
   text-decoration: none; }
 a {
-  color: #000000; }
+  color: #0000FF; }
 a:hover, a:active {text-decoration: none; color: black; border-bottom: 1px solid red; }
 
 
@@ -396,6 +396,7 @@ hr {
 
 /* Clearing
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
+
 /* Self Clearing Goodness */
 .container:after,
 .row:after,
